@@ -1,0 +1,12 @@
+You: escape
+AI: If you have any more questions or need further assistance in the future, feel free to ask. Have a great day!
+
+You: WHAT IS THE CPAITAL OF FRANCE?
+AI: The capital of France is Paris.
+
+You: who is openai ceo?
+AI: The CEO of OpenAI is Sam Altman.
+
+You: tarnslate in french? " hwo are you human being"
+AI: In French, "how are you, human being?" translates to "comment vas-tu, être humain ?"
+

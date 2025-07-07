@@ -25,3 +25,5 @@ while True:
         chat_history.append(AIMessage(content = AI_message))
         print(AI_message)
 
+    with open("chat_log.txt", "a", encoding="utf-8") as f:
+        f.write(f"You: {input_1}\nAI: {AI_message}\n\n")
